@@ -19,6 +19,7 @@ At some point, I'd like to add a section with tips/advice on finding a remote jo
 - [Front End Developer Jobs](http://frontenddeveloperjob.com/) ✦
 - [GitHub Jobs](https://jobs.github.com/positions?description=remote&location=) ✦
 - [StackOverflow Careers](http://careers.stackoverflow.com/jobs/remote) ✦
+- [IT jobs](https://www.freelancermap.com/projects/remote.html) ✦
 
 ✦ These boards aren't strictly remote, but have a large number of remote job listings
 
